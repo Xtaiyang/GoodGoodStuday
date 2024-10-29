@@ -265,3 +265,7 @@
 **模型更新：**根据模型在生产环境中的表现和新的数据，定期更新模型。这可能涉及到收集新的训练数据，重新训练模型，测试新模型，然后将新模型部署到生产环境中。
 
 以上就是模型部署的基本流程。需要注意的是，这个流程可能会根据你的具体需求和所使用的技术进行一些调整。部署机器学习模型是一个复杂的过程，需要考虑的因素很多，如模型性能、[可扩展性](https://zhida.zhihu.com/search?q=可扩展性&zhida_source=entity&is_preview=1)、安全性、成本等。
+
+
+浦语书生大模型 GitHub 仓库（https://github.com/InternLM/Tutorial）
+将此项目报名参加第四期实战营项目评选将解锁 30% A100 和 168 团队算力点资源，报名链接：https://aicarrier.feishu.cn/wiki/JuXvwHzGni2A2Rksd8Rczpvxngb
